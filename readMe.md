@@ -1,1 +1,1 @@
-http://old.bitcoinrobot.cn
+https://old.bitcoinrobot.cn
